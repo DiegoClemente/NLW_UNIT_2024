@@ -54,3 +54,19 @@ Nessa aplicação temos duas principais entidades que seria o organizador do eve
 <h1>🛢 Diagrama do banco de dados:</h1>
 
 ![image](https://github.com/DiegoClemente/NLW_UNIT_2024/assets/22910400/d8446f47-b92b-43e2-8b59-21792726c884)
+
+<h1>Testes realizados no insomnia:</h1>
+
+<ol>
+  <li>Detalhes do evento</li>
+  <li>Cria evento</li>
+  <li>Participantes do evento</li>
+  <li>Cria participante</li>
+  <li>Consulta crachá</li>
+  <li>Realiza Check-in</li>
+</ol>
+
+![gifmaker_me](https://github.com/DiegoClemente/NLW_UNIT_2024/assets/22910400/22a2a56f-8368-4431-9d81-88dd38e89acd)
+
+
+
