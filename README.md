@@ -1,7 +1,7 @@
 <h2>📢 Disclaimer:</h2>
-Esse projeto foi desenvolvido seguindo o evento da @Rocketseat NLW que acontece todo ano. 🚀🚀
+Esse projeto foi desenvolvido seguindo o evento da <a href="https://github.com/Rocketseat">@Rocketseat</a> NLW que acontece todo ano. 🚀🚀<br><br>
 
-No projeto desenvolvido nessa edição eu assumi a trilha de Java ♨️ no qual desenvolvemos uma aplicação chamada Pass.In que seria uma aplicação de agendamento de eventos. 
+No projeto desenvolvido nessa edição eu assumi a trilha de Java ♨️ no qual desenvolvemos uma aplicação chamada Pass.In que seria uma aplicação de agendamento de eventos. <br><br>
 Nessa aplicação temos duas principais entidades que seria o organizador do evento e o participante do evento. 
 
 <h1>📝 Sobre o projeto:</h1>
